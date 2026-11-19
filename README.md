@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nama Perusahaan</title>
+<title>profil akbar</title>
 <style>
   body {
     font-family: Arial, sans-serif;
