@@ -21,7 +21,7 @@
 </style>
 </head>
 <body>
-  <h1>Nama Perusahaan</h1>
+  <h1>profil akbar</h1>
   <nav>
     <a href="#tentang">Tentang</a>
     <a href="#layanan">Layanan</a>
